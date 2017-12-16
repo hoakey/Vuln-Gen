@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "execute": {
+      "commandName": "Project",
+      "commandLineArgs": "attack=CVE-2017-9788 working_directory=C:\\Vuln-Gen iso_path=\\ISOs\\ubuntu-12.04.5-server-amd64.iso"
+    }
+  }
+}
